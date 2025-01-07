@@ -22,6 +22,9 @@ We have made the synthetic datasets publicly available for research purposes. Ex
 ## Visual Results
 ![Comparison of synthesized and real images from the Chest X-ray, OCT, and Breast Cancer Histopathology datasets. ](assets/visual.png)
 
+## Citation
+Please cite the following publication if you use the code or data from this repo: Hosseini, A. and Serag, A. Is Synthetic Data Generation Effective in Maintaining Clinical Biomarkers? Investigating Diffusion Models Across Diverse Imaging Modalities, Frontiers in Artificial Intelligence, 2025, in press. 
+
 ## 🙏 Acknowledgements
 We extend our gratitude to [2D medical image synthesis using transformer-based denoising diffusion probabilistic model](https://github.com/shaoyanpan/2D-Medical-Denoising-Diffusion-Probabilistic-Model-) for their invaluable open-source code contributions, which served as a foundation for this project. 🌟
 
