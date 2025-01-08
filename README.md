@@ -25,7 +25,18 @@ We have made the synthetic datasets publicly available for research purposes. Ex
 ## Citation
 Please cite the following publication if you use the code or data from this repo: 
 
-**Hosseini, A., & Serag, A.** (2025). *Is Synthetic Data Generation Effective in Maintaining Clinical Biomarkers? Investigating Diffusion Models Across Diverse Imaging Modalities*. Frontiers in Artificial Intelligence, in press.
+```bibtex
+@article{Hosseini2024,
+  author = {Hosseini, A. and Serag, A.},
+  title = {Is Synthetic Data Generation Effective in Maintaining Clinical Biomarkers? Investigating Diffusion Models Across Diverse Imaging Modalities},
+  journal = {Frontiers in Artificial Intelligence},
+  year = {2024},
+  volume = {7},
+  doi = {10.3389/frai.2024.1454441},
+  url = {https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1454441/abstract}
+}
+``` 
+
 
 ## 🙏 Acknowledgements
 We extend our gratitude to [2D medical image synthesis using transformer-based denoising diffusion probabilistic model](https://github.com/shaoyanpan/2D-Medical-Denoising-Diffusion-Probabilistic-Model-) for their invaluable open-source code contributions, which served as a foundation for this project. 🌟
