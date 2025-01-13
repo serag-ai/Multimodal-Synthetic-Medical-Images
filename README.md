@@ -1,7 +1,5 @@
 # Investigating Diffusion Models Across Diverse Imaging Modalities 🌐
 
-### AI Innovation Lab, Weill Cornell Medicine - Qatar
-
 ## ✨ Overview
 This study demonstrates the feasibility and utility of generating synthetic medical images using Denoising Diffusion Probabilistic Models (DDPM) while preserving important imaging biomarkers. These synthetic images hold promise for advancing various applications in healthcare, including:
 
