@@ -13,8 +13,8 @@ By bridging the gap between synthetic and real-world medical imaging data, our a
 ## 📂 Data
 We have made the synthetic datasets publicly available for research purposes. Explore them below:
 
-1. **Synthetic Data for Ophthalmology**: [Synthetic Data in Ophthalmology](https://huggingface.co/datasets/serag-ai/I-SynMed-Ophthalmology) 👩‍🎨
-2. **Synthetic Data for Breast Cancer Histopathology**: [Synthetic Data in Breast Cancer Histopathology](https://huggingface.co/datasets/serag-ai/I-SynMed-Histopathology) 🎩
+1. **Synthetic Data for Breast Cancer Histopathology**: [Synthetic Data in Breast Cancer Histopathology](https://huggingface.co/datasets/serag-ai/I-SynMed-Histopathology) 🎩
+2. **Synthetic Data for Ophthalmology**: [Synthetic Data in Ophthalmology](https://huggingface.co/datasets/serag-ai/I-SynMed-Ophthalmology) 👩‍🎨
 3. **Synthetic Data for Pneumonia**: [Synthetic Data in Pneumonia](https://huggingface.co/datasets/serag-ai/I-SynMed-Radiology) 💉
 
 ## Visual Results
