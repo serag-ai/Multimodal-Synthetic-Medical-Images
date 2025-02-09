@@ -21,7 +21,7 @@ We have made the synthetic datasets publicly available for research purposes. Ex
 ![Comparison of synthesized and real images from the Chest X-ray, OCT, and Breast Cancer Histopathology datasets. ](assets/visual.png)
 
 ## Citation
-If you use the code or data from this repository, please cite the following publication: 
+If you use the code or data from this repository, please cite [our paper](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1454441/full): 
 
 ```bibtex
 @article{Hosseini2024,
